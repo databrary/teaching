@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: ../docs
+  render:
+    - "./*.qmd"
+
+website:
+  title: "Teaching with Databrary"
+  navbar:
+    tools:
+    - icon: github
+      menu:
+        - text: Source Code
+          href:  https://code.com
+        - text: Report a Bug
+          href:  https://bugs.com
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+    - text: "Home"
+      href: index.qmd
+    - section: "Resources"
+      contents:
+        text: "APS 2025"
+        href: aps-2025.qmd
+  repo-actions: [edit, issue]
+  repo-subdir: src
+  repo-url: https://github.com/databrary/teaching/
+  page-footer:
+    left: "[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+    # center: ""
+    right: "Built with [Quarto](https://quarto.org/)"
+    background: light
+
+format:
+  html:
+    theme: cosmo
+    number-sections: false
+    # fontsize: 1.2em
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    bibliography: include/bib/teaching.bib
+    csl: include/bib/apa.csl
+    citations-hover: true
+    footnotes-hover: true
+    html-math-method: mathjax
+    code-fold: true
+    code-tools: true
+    lightbox: true
+    

@@ -1,0 +1,11 @@
+---
+title: ""
+format: html
+---
+
+![](include/img/databrary-logo.png)
+
+## Welcome
+
+This site contains information useful to people who want to use Databrary for teaching.
+
