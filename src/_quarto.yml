@@ -50,3 +50,7 @@ format:
     code-tools: true
     lightbox: true
     
+knitr:
+  opts_chunk:
+    fig.path: include/fig/
+    

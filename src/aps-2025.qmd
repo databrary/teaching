@@ -13,6 +13,11 @@ This page provides information related to the talk given at the Association for 
 
 ## Links
 
+- Gilmore, R.O., Hillary, F.R, Lazar, N., Enriquez, A., Pearce, A., Wham, B. (n.d.). Penn State Open Scholarship Initiative. Retrieved May 22, 2025, from <https://penn-state-open-science.github.io/>.
+- The 2023 Bootcamp Program Planning Committee. (n.d.). Open Science Bootcamp 2023. Retrieved May 22, 2025, from <https://penn-state-open-science.github.io/bootcamp-2023/>.
+- Gilmore, R. O. (2025, April 9). PSY 511: Foundations of Social, Cognitive, and Affective Neuroscience (SCAN). Retrieved May 22, 2025, from <https://psu-psychology.github.io/psy-511-scan-fdns-2025-spring/>.
+- Gilmore, R. O. (2025, May 1). PSYCH 490.001: The Psychology of Data Visualization. Retrieved May 22, 2025, from <https://psu-psychology.github.io/psych-490-data-viz-2025-spring/>.
+- Gilmore, R. O. (n.d.). PSYCH 490.012: The reproducibility crisis in science. Retrieved May 22, 2025, from <https://psu-psychology.github.io/psych-490-reproducibility-2024-fall/>.
 - Adolph, K., Tamis-LeMonda, C., Gilmore, R. & Soska, K. (2019). Play and Learning Across a Year (PLAY) Project - Protocols & Documentation. Databrary. Retrieved May 22, 2025 from <https://databrary.org/volume/876>.
 - DeLoache, J. (2014). Scale errors offer evidence for a perception-action dissociation early in life. Databrary. Retrieved May 22, 2025 from <https://databrary.org/volume/61>.
 - ManyBabies. (n.d.). MB6. ManyBabies. Retrieved May 22, 2025, from <https://manybabies.org/MB6/>

@@ -1,0 +1,17 @@
+---
+title: "_supplemental"
+format: html
+knitr:
+  opts_chunk:
+    fig.path: include/fig/
+---
+
+## About
+
+This document provides supplemental information.
+
+```{r}
+#| label: qr-code-aps-2025
+plot(qrcode::qr_code("https://databrary.github.io/teaching/aps-2025.html"))
+```
+
